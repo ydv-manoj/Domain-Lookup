@@ -16,7 +16,7 @@ Once you have your `env.` file set up, run the development server:
 Open [http://localhost:5000](http://localhost:5000) with your browser to see the result.
 
 ### Environment Variables
-
+### Look in the api_key.txt for api key, i know this is not secure but it was the only for you to get the api key to run this application, you can always create your own api key from WHOISXML, i will delete this api key in 2 or more days
 Required environment variables in your `.env`:
 ```bash
 NEXT_PUBLIC_WHOISXML_API_KEY=your_api_key
